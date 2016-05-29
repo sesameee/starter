@@ -9,11 +9,11 @@ react + flux + gulp + webpack
 
 
 ## Getting Starter  ##
-1) Intall Project Modules
-> $ npm install
+1. Intall Project Modules
+> npm install
 
-2) Run in Browser
-> $ gulp watch
+2. Run in Browser
+> gulp watch
 
-3) Build Project
-> $ gulp build
+3. Build Project
+> gulp build
